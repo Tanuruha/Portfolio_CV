@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tanuruha Chaudhuri - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tanuruha Chaudhuri</h1>
+        <p>Web Development & Technical Writing</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a seasoned Web Developer and Technical Writer with 6+ years of experience in delivering responsive websites and clear documentation.</p>
+    </section>
+
+    <section id="services">
+        <h2>Services</h2>
+        <ul>
+            <li>Custom Web Development (HTML, CSS, JavaScript, PHP, Python)</li>
+            <li>Technical Writing & Documentation</li>
+            <li>SEO & Blog Writing</li>
+            <li>Branding & Digital Promotion</li>
+            <li>Project & Data Management</li>
+        </ul>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Check out some of my work, including web development projects and content writing samples.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: [Your Email]</p>
+        <p>Phone: [Your Contact Number]</p>
+        <p>LinkedIn: [Your LinkedIn Profile]</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Tanuruha Chaudhuri. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
